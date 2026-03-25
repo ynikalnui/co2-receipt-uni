@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/co2/:path*",
+      "destination": "https://prod.nabi.dev/api/co2/:path*"
+    }
+  ]
+}
