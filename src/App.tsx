@@ -17,10 +17,10 @@ function AppInner() {
           <Sprout size={32} />
         </div>
         <h1 className="font-display text-4xl font-bold text-gray-900 tracking-tight">
-          Receipt CO₂
+          Route Zero
         </h1>
         <p className="text-sm text-gray-400 max-w-xs">
-          Upload a grocery receipt and discover its carbon footprint instantly.
+          Upload a receipt and discover its carbon footprint instantly.
         </p>
         <ApiStatusBadge />
       </header>
